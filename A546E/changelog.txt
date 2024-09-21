@@ -1,0 +1,11 @@
+LICH ROM V3.7: 
+
+• OneUI 6.1.1
+• Base S711NKSU3BXH7 [KOREA]
+• Add S23FE name 
+• 01 september security patch
+• Add SamsungSmartSuggestion widget
+• It's softer than version 3.6
+• Photographic environment in wallpapers
+• Multi-user option
+• Possible solution for SmartView. 

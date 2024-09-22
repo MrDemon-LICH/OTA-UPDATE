@@ -2,7 +2,7 @@
 <OnOTAInfo>
   <RomName>LICH ROM</RomName>
   <VersionName>CATFAST</VersionName>
-  <BuildNumber type="integer">20240923</BuildNumber>
+  <BuildNumber type="integer">20240922</BuildNumber>
   <DownloadURL>https://master.dl.sourceforge.net/project/lichrom/LICH-ROM_V3.7.1.zip?viasf=1</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.1.1</OneUIVer>

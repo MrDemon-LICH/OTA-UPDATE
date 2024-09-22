@@ -2,12 +2,12 @@
 <OnOTAInfo>
   <RomName>LICH ROM</RomName>
   <VersionName>CATFAST</VersionName>
-  <BuildNumber type="integer">20240920</BuildNumber>
-  <DownloadURL>https://download1526.mediafire.com/ywjwy886cs5g3pyJfWZtnnLDKMKGI8ultz10KU7rO_6Fkup7v5r22uSJjar6CKHDu6iWFiNhT96W2hYFJKfH5UtX7raDlKYzFoguRzdntoXOcMv-c5tZiVcOLsPCZRXPTYLqRyzTvCkJXPByFchGiV_xrnIkThSXKci5PNsqoIJs4g/mtas1h4u9m5a2r3/A54LICH-ROM.zip</DownloadURL>
+  <BuildNumber type="integer">20240922</BuildNumber>
+  <DownloadURL>https://download1652.mediafire.com/hm2ukpfdt3ognLfv9YvnJd51Y0dxqP1cq0nCDfhA_4VqhQaN_Luwj_0lX-FZZ0fFDpKM--Osbl5dfy3gzZa8yiXPK0_pstVISmmfMeWTChROP5VvskhBU6T1yvDyyCAQhbC3qjao7TfjuSxCGei1G0gdsGaIwKn4jaWGOrUVadH04A/5psla531iao49pd/B-LICH-ROM_V3.7.1.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.1.1</OneUIVer>
-  <CheckMD5>4b388ccf1ae67465a4b185e1f2e48a50</CheckMD5>
-  <FileSize type="long">3583015308</FileSize>
+  <CheckMD5>62e693805bc73cb25bf798f7b453eccf</CheckMD5>
+  <FileSize type="long">5352861543</FileSize>
   <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
   <ChangelogHeader>https://raw.githubusercontent.com/MrDemon-LICH/OTA-UPDATE/A54/A546B/banner.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/MrDemon-LICH/OTA-UPDATE/A54/A546B/changelog.txt</ChangelogURL>

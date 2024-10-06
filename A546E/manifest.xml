@@ -2,12 +2,12 @@
 <OnOTAInfo>
   <RomName>LICH ROM</RomName>
   <VersionName>TUTI</VersionName>
-  <BuildNumber type="integer">20240922</BuildNumber>
-  <DownloadURL>https://master.dl.sourceforge.net/project/lichrom/SM-A546E/LICH_ROM_V3.7.2.zip?viasf=1</DownloadURL>
+  <BuildNumber type="integer">20241006</BuildNumber>
+  <DownloadURL>https://cfhcable.dl.sourceforge.net/project/lichrom/SM-A546E/LICH_ROM_V3.7.2.zip?viasf=1</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.1.1</OneUIVer>
-  <CheckMD5>094aa44c38b7ca47576ba705a7a29b19</CheckMD5>
-  <FileSize type="long">5181785969</FileSize>
+  <CheckMD5>1419064e86d37f16e8d67bf201fe00dd</CheckMD5>
+  <FileSize type="long">5181805275</FileSize>
   <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
   <ChangelogHeader>https://raw.githubusercontent.com/MrDemon-LICH/OTA-UPDATE/A54/A546E/banner.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/MrDemon-LICH/OTA-UPDATE/A54/A546E/changelog.txt</ChangelogURL>

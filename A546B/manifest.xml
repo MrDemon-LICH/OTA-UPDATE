@@ -2,7 +2,7 @@
 <OnOTAInfo>
   <RomName>LICH ROM</RomName>
   <VersionName>TUTI</VersionName>
-  <BuildNumber type="integer">20241007</BuildNumber>
+  <BuildNumber type="integer">20241006</BuildNumber>
   <DownloadURL>https://master.dl.sourceforge.net/project/lichrom/SM-A546B/B_LICH_ROM_V3.7.2.zip?viasf=1</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.1.1</OneUIVer>

@@ -1,5 +1,10 @@
-LICH ROM V3.7.1: 
+LICH ROM V3.7.3: 
 
 • OneUI 6.1.1
-• Base S711BXXU4DXH7
-• Add OTA UPDATE APP
+• Base S711BXXS5DXI3
+• October patch
+• Fix brightness in AOD (Delete AODWallpaper)
+
+Note:
+• If you are on Lich v3.7.2 you can update via OTA
+• If you are in Stock, install the telegram group version when it is ready

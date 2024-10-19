@@ -3,6 +3,7 @@ LICH ROM V3.7.3:
 • OneUI 6.1.1
 • Base S711BXXS5DXI3
 • October patch
+• Fix brightness in AOD (Delte AODWallpaper)
 
 Note:
 • If you are on Lich v3.7.2 you can update via OTA

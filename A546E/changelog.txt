@@ -1,9 +1,9 @@
-LICH ROM V3.7.2: 
+LICH ROM V3.7.3: 
 
 • OneUI 6.1.1
-• Base S711BXXS4DXH8
-• September patch
+• Base S711BXXS5DXI3
+• October patch
 
 Note:
-• If you are on Lich v3.7.1 you can update via OTA
+• If you are on Lich v3.7.2 you can update via OTA
 • If you are in Stock, install the telegram group version when it is ready
